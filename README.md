@@ -1,4 +1,5 @@
 # Алгоритмы распознавания образов 
-- Lab1 - загрузка и отображение MNIST
+- Lab1 - download and show MNIST
 - Lab2 - KNN MNIST
-- Lab2 - PCA for visualization
+- Lab3 - PCA for visualization MNIST
+- Lab4 - PyTorch Linear Regression
